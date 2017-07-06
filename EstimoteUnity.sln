@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstimoteUnity", "Assembly-CSharp.csproj", "{FA044333-48D9-7DAF-3C28-9BBFB9B00365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstimoteUnity", "Assembly-CSharp-Editor.csproj", "{6EF6183B-7C27-99AF-0D98-1C6D592FDF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA044333-48D9-7DAF-3C28-9BBFB9B00365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA044333-48D9-7DAF-3C28-9BBFB9B00365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA044333-48D9-7DAF-3C28-9BBFB9B00365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA044333-48D9-7DAF-3C28-9BBFB9B00365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF6183B-7C27-99AF-0D98-1C6D592FDF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF6183B-7C27-99AF-0D98-1C6D592FDF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF6183B-7C27-99AF-0D98-1C6D592FDF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF6183B-7C27-99AF-0D98-1C6D592FDF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
